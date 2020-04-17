@@ -1,5 +1,5 @@
 # Covid
-Covid-19 Analysis in Bangladesh
+Covid-19 Analysis Bangladesh
   
 >***Abstract:*** This Dataset is updated every 24 hours based on Bangladesh IEDCR (Institute of Epidemiology, Disease Control and Research) information.
 >Daily new deaths, new cases and new recoveries are collected from IEDCR.
