@@ -16,7 +16,7 @@ Covid-19 Analysis in Bangladesh
 >Date wise ***Deaths vs. Recoveries*** 
 ><img src="chart2.png"/>
 
->***Recoveries*** percentage should be greater than ***Death*** rates but here we can clearly see that it is not, which is predicting an horrible future for Bangladesh 
+>***Recoveries*** percentage should be significantly greater than ***Death*** rates but here we can clearly see that it is not, which is predicting an horrible future for Bangladesh 
 ><br/><img src="piechart2.png"/>
 
 >***Conclusion:*** The findings clearly show the alarming situation of Bangladesh and how it may exacerbate in the near future. Inital steps must be taken early enough in attempts to flatten the curve.
